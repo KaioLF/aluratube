@@ -3,26 +3,26 @@
     "job": "Software Engineering Student",
     "github": "KaioLF",
     "playlists": {
-      "jogos": [
+      "entretenimento": [
           {
-            "title": "Frostpunk - Neve e Steak tartare",
-            "url": "https://www.youtube.com/watch?v=QsqatJxAUtk",
-            "thumb": "https://img.youtube.com/vi/QsqatJxAUtk/hqdefault.jpg"
+            "title": "The Last of Us Part I | Parte 1",
+            "url": "https://www.youtube.com/watch?v=Q7qwylYTswA",
+            "thumb": "https://img.youtube.com/vi/Q7qwylYTswA/hqdefault.jpg"
           },
           {
-            "title": "Frostpunk - Neve e Steak tartare",
-            "url": "https://www.youtube.com/watch?v=O8jtAyPuhNg",
-            "thumb": "https://img.youtube.com/vi/O8jtAyPuhNg/hqdefault.jpg"
+            "title": "Os Melhores Momentos do Jogabilidade em 2021",
+            "url": "https://www.youtube.com/watch?v=B-PrxQjDRs0",
+            "thumb": "https://img.youtube.com/vi/B-PrxQjDRs0/hqdefault.jpg"
           },
           {
-            "title": "Gas Station Simulator - 8 dias sem dormir!",
-            "url": "https://www.youtube.com/watch?v=R1d0DyRDG_Q",
-            "thumb": "https://img.youtube.com/vi/R1d0DyRDG_Q/hqdefault.jpg"
+            "title": "CASIMIRO REAGE: MASTERCHEF PROFISSIONAIS! TORRE DE MACARON (EP7 - TEMP 04) PT. 1 |Cortes do Casimito",
+            "url": "https://www.youtube.com/watch?v=u9V7ynkM-Lc",
+            "thumb": "https://img.youtube.com/vi/u9V7ynkM-Lc/hqdefault.jpg"
           },
           {
-            "title": "Gartic Phone - Não assista a esse NerdPlayer!",
-            "url": "https://www.youtube.com/watch?v=0oJQUs5oRiM",
-            "thumb": "https://img.youtube.com/vi/0oJQUs5oRiM/hqdefault.jpg"
+            "title": "CASIMIRO REAGE: ITUANO 0X1 VASCO PELO CAMPEONATO BRASILEIRO SÉRIE B 2022 (SUBIU) |Cortes do Casimito",
+            "url": "https://www.youtube.com/watch?v=6YOCAlKuXl0",
+            "thumb": "https://img.youtube.com/vi/6YOCAlKuXl0/hqdefault.jpg"
           },
           {
             "title": "Netdecking Estraga o Magic?",
@@ -30,31 +30,31 @@
             "thumb": "https://img.youtube.com/vi/dXihyhYEsEc/hqdefault.jpg"
           },
           {
-            "title": "Cities: Skylines - EPCOTAB, o futuro de Saint Laurrent",
-            "url": "https://www.youtube.com/watch?v=zybKHMgLCWU",
-            "thumb": "https://img.youtube.com/vi/zybKHMgLCWU/hqdefault.jpg"
+            "title": "Holodomor, o mito da 'fome-genocídio' na Ucrânia (1932-1933)",
+            "url": "https://www.youtube.com/watch?v=PY6aNPXzQ3I",
+            "thumb": "https://img.youtube.com/vi/PY6aNPXzQ3I/hqdefault.jpg"
           },
           {
-            "title": "We Were Here Together - Os Enigmas deste Mundo",
-            "url": "https://www.youtube.com/watch?v=UKgQsrHUG40",
-            "thumb": "https://img.youtube.com/vi/UKgQsrHUG40/hqdefault.jpg"
+            "title": "LUCAS INUTILISMO & DIOGO DEFANTE - Podpah #129",
+            "url": "https://www.youtube.com/watch?v=h5P-kluDtGA&t=10889s",
+            "thumb": "https://img.youtube.com/vi/h5P-kluDtGA&t=10889s/hqdefault.jpg"
           },
           {
-            "title": "Microsoft Flight Simulator - Top Gun: Oceania - Missão RJ!",
-            "url": "https://www.youtube.com/watch?v=n3TneUb5c-w",
-            "thumb": "https://img.youtube.com/vi/n3TneUb5c-w/hqdefault.jpg"
+            "title": "DON L - Podpah #448",
+            "url": "https://www.youtube.com/watch?v=U4cY8K48SOU&t=3650s",
+            "thumb": "https://img.youtube.com/vi/U4cY8K48SOU&t=3650s/hqdefault.jpg"
           }
         ],
       "front-end": [
         {
-          "title": "Jogo com JavaScript #01: Criando um Flappy Bird do ZERO!!!",
-          "url": "https://youtube.com/watch?v=jOAU81jdi-c",
-          "thumb": "https://img.youtube.com/vi/jOAU81jdi-c/hqdefault.jpg"
+          "title": "Seu primeiro código HTML - @Curso em Vídeo HTML5 e CSS3",
+          "url": "https://youtu.be/vecz6IeKHqY",
+          "thumb": "https://img.youtube.com/vi/vecz6IeKHqY/hqdefault.jpg"
         },
         {
-          "title": "Jogo com JavaScript #01: Criando um Flappy Bird do ZERO!!!",
-          "url": "https://www.youtube.com/watch?v=llF6vD-RljE",
-          "thumb": "https://img.youtube.com/vi/llF6vD-RljE/hqdefault.jpg"
+          "title": "Parágrafos e Quebras - @Curso em Vídeo HTML5 e CSS3",
+          "url": "https://youtu.be/f6NTJdtEFOc?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n",
+          "thumb": "https://img.youtube.com/vi/PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n/hqdefault.jpg"
         },
         {
           "title": "A Primeira Aula de Flutter Que Todo Mundo Deveria Ter",
@@ -67,19 +67,19 @@
           "thumb": "https://img.youtube.com/vi/dp0zB4n3MUs/hqdefault.jpg"
         },
         {
-          "title": "Angular (O Vídeo que Você Precisava para Começar no Framework) // Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=Yf0rC7dERjg",
-          "thumb": "https://img.youtube.com/vi/Yf0rC7dERjg/hqdefault.jpg"
+          "title": "React JS // Dicionário do Programador",
+          "url": "https://www.youtube.com/watch?v=NhUr8cwDiiM",
+          "thumb": "https://img.youtube.com/vi/NhUr8cwDiiM/hqdefault.jpg"
         },
         {
-          "title": "Como Foi Programado um App Que Faz Mágica",
-          "url": "https://www.youtube.com/watch?v=I36seuWUe5s",
-          "thumb": "https://img.youtube.com/vi/I36seuWUe5s/hqdefault.jpg"
+          "title": "Símbolos e Emoji no seu site - @Curso em Vídeo HTML5 e CSS3",
+          "url": "https://youtu.be/nhMdFe3WwYc?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n",
+          "thumb": "https://img.youtube.com/vi/PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n/hqdefault.jpg"
         },
         {
-          "title": "O que todo iniciante em Front End deveria aprender | Como manipular arrays e objetos em JavaScript",
-          "url": "https://www.youtube.com/watch?v=yS7AcF-xRUg",
-          "thumb": "https://img.youtube.com/vi/yS7AcF-xRUg/hqdefault.jpg"
+          "title": "Você tem o direito de usar qualquer imagem no seu site? - @Curso em Vídeo HTML5 e CSS3",
+          "url": "https://youtu.be/bDULqeGEvAw?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n",
+          "thumb": "https://img.youtube.com/vi/PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n/hqdefault.jpg"
         },
         {
           "title": "5 Erros Históricos do CSS",
@@ -94,9 +94,9 @@
       ],
       "back-end": [
         {
-          "title": "Node JS: Construindo CRUDs com file system focando em serialização e JSON",
-          "url": "https://www.youtube.com/watch?v=dvd3pNYh7So",
-          "thumb": "https://img.youtube.com/vi/dvd3pNYh7So/hqdefault.jpg"
+          "title": "Branching and Iteration",
+          "url": "https://youtu.be/0jljZRnHwOI?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA",
+          "thumb": "https://img.youtube.com/vi/PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA/hqdefault.jpg"
         },
         {
           "title": "Node JS: Construindo CRUDs com file system focando em serialização e JSON",
@@ -105,18 +105,18 @@
         },
         
         {
-          "title": "O que é o Java? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=90NcVNsKGik",
+          "title": "3. String Manipulation, Guess and Check, Approximations, Bisection",
+          "url": "https://youtu.be/SE4P7IVCunE?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA",
           "thumb": "https://img.youtube.com/vi/90NcVNsKGik/hqdefault.jpg"
         },
         {
-          "title": "O que é Machine Learning? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Iuz_jc96bQk",
-          "thumb": "https://img.youtube.com/vi/Iuz_jc96bQk/hqdefault.jpg"
+          "title": "4. Decomposition, Abstraction, and Functions",
+          "url": "https://youtu.be/MjbuarJ7SE0?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA",
+          "thumb": "https://img.youtube.com/vi/PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA/hqdefault.jpg"
         },
         {
-          "title": "A MELHOR linguagem de programação com Fabio Akita | #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=imB0QVoNrGc",
+          "title": "5. Tuples, Lists, Aliasing, Mutability, and Cloning",
+          "url": "https://youtu.be/RvRKT-jXvko?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA",
           "thumb": "https://img.youtube.com/vi/imB0QVoNrGc/hqdefault.jpg"
         },
         {
